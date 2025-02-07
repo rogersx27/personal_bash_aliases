@@ -7,7 +7,7 @@ Este repositorio contiene mi configuración de alias en Bash para mejorar la pro
 1. Clona este repositorio en tu directorio de inicio:
 
    ```bash
-   git clone https://github.com/tuusuario/bash-aliases.git ~/.bash_aliases_repo
+   git clone https://github.com/rogersx27/personal_bash_aliases.git ~/.bash_aliases_repo
    ```
 
 2. Agrega la siguiente línea a tu `~/.bashrc` o `~/.bash_profile` para cargar los alias automáticamente:
