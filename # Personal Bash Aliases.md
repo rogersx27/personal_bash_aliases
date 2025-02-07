@@ -1,6 +1,6 @@
 # Personal Bash Aliases
 
-Este repositorio contiene mi configuración de alias en Bash para mejorar la productividad en la terminal.
+Este repositorio contiene mi configuración de alias en Bash para mejorar la productividad en la terminal. ✔
 
 ## Instalación
 
@@ -99,7 +99,7 @@ alias cpu='top'               # Ver uso de CPU
 
 ## Contribuciones
 
-Si deseas sugerir mejoras o agregar nuevos alias, eres bienvenido a hacer un fork y enviar un pull request.
+Las aportes son bienvenidos 🏁
 
 ## Licencia
 
